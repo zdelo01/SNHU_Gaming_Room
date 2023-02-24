@@ -1,6 +1,6 @@
 # SNHU_Gaming_Room
+# Zachary DeLong
 Software Design Document
-Zachary DeLong
 
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 My client the Gaming Room requested help with expanding their game app “Draw it or Lose it” across multiple platforms. 
